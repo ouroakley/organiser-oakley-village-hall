@@ -1,13 +1,12 @@
 ---
 draft: false
 title: Trinity baby class
-date: 2026-05-01
+date: 2026-06-05
 eventDates:
-  - start: 2026-05-01T00:00:00
-  - start: 2026-05-08T00:00:00
-  - start: 2026-05-15T00:00:00
-  - start: 2026-05-22T00:00:00
-  - start: 2026-05-29T00:00:00
+  - start: 2026-06-05T00:00:00
+  - start: 2026-06-12T00:00:00
+  - start: 2026-06-19T00:00:00
+  - start: 2026-06-26T00:00:00
 
 venues:
   - oakley-village-hall
@@ -15,9 +14,10 @@ organisers:
   - oakley-village-hall
 params:
   link:
-    issue: May 2026
+    issue: June 2026
     pdfPages:
       - 10
 ---
 
+<!-- source: carried forward from Link May 2026 p.10 -->
 Morning session (Andover Road village hall timetable).

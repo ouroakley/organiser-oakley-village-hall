@@ -3,14 +3,11 @@ draft: false
 title: Workout to music
 date: 2026-05-06
 eventDates:
-  - start: 2026-05-06T10:30:00
-    end: 2026-05-06T11:30:00
-  - start: 2026-05-13T10:30:00
-    end: 2026-05-13T11:30:00
-  - start: 2026-05-20T10:30:00
-    end: 2026-05-20T11:30:00
-  - start: 2026-05-27T10:30:00
-    end: 2026-05-27T11:30:00
+  - start: 2026-05-06T00:00:00
+  - start: 2026-05-13T00:00:00
+  - start: 2026-05-20T00:00:00
+  - start: 2026-05-27T00:00:00
+
 venues:
   - oakley-village-hall
 organisers:
@@ -22,3 +19,4 @@ params:
       - 10
 ---
 
+Morning session (Andover Road village hall timetable).
